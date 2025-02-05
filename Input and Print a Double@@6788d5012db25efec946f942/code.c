@@ -2,5 +2,5 @@
 int main(){
     double n;
     scanf("%lf",&d);
-    printf("You enetered: %.4lf",n);
+    printf("You enetered: %lf",n);
 }
