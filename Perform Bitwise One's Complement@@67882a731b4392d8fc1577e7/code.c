@@ -6,9 +6,9 @@
 
 int main() {
     // printf("%s", welcome());
-    int a,b;
-    scanf("%d %d",&a,&b);
-    int c=a~b;
+    int b;
+    scanf("%d",&b);
+    int c=~b;
     printf("%d",c);
     return 0;
 }
