@@ -10,3 +10,4 @@ int main(){
     }else if(a=b){
         printf("Equal");
 }
+}
