@@ -3,13 +3,13 @@
 int main(){
     int a,b;
     scanf("%d %d",&a,&b);
-    if(a>b)
-        printf("First");
-   else if(a==b)
+    if(a>b){
+        printf("First");}
+   else if(a==b){
    printf("equal");
-   break;
-   else
-   printf("second");
+   }
+   else{
+   printf("second");}
     
     
 
